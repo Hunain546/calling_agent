@@ -55,7 +55,7 @@ with col1:
     st.subheader("🎤 Voice Configuration")
     voice = st.selectbox(
         "Choose a voice",
-        options=["alloy", "ash", "coral", "echo", "fable", "onyx", "nova", "sage", "shimmer"],
+        options=["alloy"],
         index=["alloy", "ash", "coral"].index(default_voice),
         help="Select the AI voice for your assistant.",
     )
