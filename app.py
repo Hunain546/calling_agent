@@ -126,7 +126,7 @@ if st.button("💾 Save Settings"):
             json=config,
         )
         if response.status_code == 200:
-            st.success("✅ Call your agent at 111-1111 to test the updated settings!")
+            st.success("✅ Call your agent at +1 218 757 7870 to test the updated settings!")
             # st.json(response.json())
         else:
             st.error(f"❌ Backend returned an error! Status code: {response.status_code}")
