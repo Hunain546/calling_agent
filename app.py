@@ -24,7 +24,7 @@ default_instructions = (
 default_temperature = 0.8
 
 # Backend URL (Replace this with your backend URL)
-BACKEND_URL = "https://6df94e19-9d6a-4e3d-855d-e7906d5d96d0-00-3oen9mcyj1357.pike.replit.dev/update-config"
+BACKEND_URL = "https://b039aecc-96bc-4ba3-8f7e-cfff0daf4f3c-00-1bxu3qd60wp5b.janeway.replit.dev/update-config"
 
 # Streamlit Page Configurations
 st.set_page_config(
